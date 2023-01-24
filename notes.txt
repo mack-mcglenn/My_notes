@@ -1,0 +1,10 @@
+-Use touch to create a file to edit
+-Run ls
+-run open filename.type
+
+To push gif:
+From terminal, type git status
+To see changes, use git diff
+To add: git add filename.type
+To commit: git commit -m "Notes about what you've changed"
+To push: git push
